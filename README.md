@@ -1,4 +1,5 @@
-![github-header-image (2)](https://github.com/srikar-mulgund97/srikar-mulgund97/assets/132211845/b3d024f3-76ea-422c-ba70-7af4c6469e73)
+![github-header-image (3)](https://github.com/srikar-mulgund97/srikar-mulgund97/assets/132211845/2b37e586-2743-4f6a-925c-66b4a7bd505e)
+
 
 
 - 👀 I’m interested in the field of Data Analytics in Business. My goal currently is to gain high profecieny in extracting insights out of business scenarios using Data as a tool, in order to explicity provide businesses with sucess factors increasing their perfromances.   

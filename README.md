@@ -1,5 +1,5 @@
-![Header]([github-header-image](https://github.com/srikar-mulgund97/srikar-mulgund97/assets/132211845/c9c3deaa-08ab-4176-a49e-bd9a92f181bd)
-)
+![Header]([github-header-image](https://github.com/srikar-mulgund97/srikar-mulgund97/assets/132211845/c9c3deaa-08ab-4176-a49e-bd9a92f181bd))
+
 - 👀 I’m interested in the field of Data Analytics in Business. My goal currently is to gain high profecieny in extracting insights out of business scenarios using Data as a tool, in order to explicity provide businesses with sucess factors increasing their perfromances.   
 - 🌱 I’m currently pursuing a masters degree in Industrial engineering and International Management with a major focus on Data science and Machine learning for Business.  
 - 💞️ I’m looking to collaborate on Data analysis and Data Viz projects.

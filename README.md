@@ -3,7 +3,7 @@
 
 
 
-- 👀 I’m interested in the field of Data Analytics in Business. My goal currently is to gain high profecieny in extracting insights out of business scenarios using Data as a tool, in order to explicity provide businesses with sucess factors increasing their perfromances.   
+- 👀 I’m interested in the field of Data Analytics in Business. My short term goal is to gain high profecieny in extracting insights for business scenarios using Data as a tool, in order to explicity provide businesses with sucess factors increasing their perfromances.   
 - 🌱 I’m currently pursuing a masters degree in Industrial engineering and International Management with a major focus on Data science and Machine learning for Business.  
 - 💞️ I’m looking to collaborate on Data analysis and Data Viz projects.
 
